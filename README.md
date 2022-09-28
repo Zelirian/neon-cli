@@ -1,4 +1,5 @@
-# Neon-cli
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # Neon-cli
 
 [![Build Status](https://travis-ci.org/rustbridge/neon-cli.svg?branch=master)](https://travis-ci.org/rustbridge/neon-cli)
 [![npm](https://img.shields.io/npm/v/neon-cli.svg)](https://www.npmjs.com/package/neon-cli)
